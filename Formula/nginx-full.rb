@@ -100,6 +100,7 @@ class NginxFull < Formula
       "vod" => "Compile with support for Kaltura VOD on-the-fly packager",
       "websockify" => "Compile with support for websockify module",
       "xsltproc" => "Compile with support for XSLT transformations",
+      "aws-auth" => "Proxying of authenticated requests to S3",
     }
   end
 
